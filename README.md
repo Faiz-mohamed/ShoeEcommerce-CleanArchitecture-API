@@ -37,7 +37,7 @@ A production-grade RESTful API for a shoe e-commerce platform, built with .NET 8
 
 1.  **Clone the repository**
     ```bash
-    git clone [https://github.com/YOUR_USERNAME/ShoeEcommerce-CleanArchitecture-API.git](https://github.com/YOUR_USERNAME/ShoeEcommerce-CleanArchitecture-API.git)
+    git clone [https://github.com/Faiz-mohamed/ShoeEcommerce-CleanArchitecture-API.git](https://github.com/Faiz-mohamed/ShoeEcommerce-CleanArchitecture-API.git)
     ```
 2.  **Configure AppSettings**
     * Rename `appsettings.json` and update the placeholders with your SQL Server credentials and Razorpay Keys.
