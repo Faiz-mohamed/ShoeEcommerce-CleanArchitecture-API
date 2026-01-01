@@ -60,7 +60,7 @@ src/
 ├── ShoeEcommerce.Application     # Business Logic, CQRS Handlers, Validators, DTOs
 ├── ShoeEcommerce.Domain          # Entities, Enums, Common Interfaces
 └── ShoeEcommerce.Infrastructure  # EF Core, Migrations, External Services (Razorpay)
-
+```
 
 🤝 Contributing
 This is a learning project intended to showcase backend architecture skills. Suggestions are welcome!
